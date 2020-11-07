@@ -1,0 +1,438 @@
+{
+  "buttermilkPancakes": {
+    "Display Name": "Buttermilk Pancakes",
+    "Search Terms": [
+      "buttermilk",
+      "pancakes"
+    ],
+    "Breakfast": 1,
+    "Lunch": 0,
+    "Dinner": 0,
+    "Dessert": 0,
+    "Ingredients": [
+      "flour",
+      "bakingPowder",
+      "salt",
+      "sugar",
+      "milk",
+      "eggs",
+      "butter",
+      "mapleSyrup"
+    ]
+  },
+  "eggsBenedict": {
+    "Display Name": "Eggs Benedict",
+    "Search Terms": [
+      "eggs",
+      "benedict"
+    ],
+    "Breakfast": 1,
+    "Lunch": 0,
+    "Dinner": 0,
+    "Dessert": 0,
+    "Ingredients": [
+      "bacon",
+      "parsley",
+      "eggs",
+      "salt",
+      "englishMuffin",
+      "butter"
+    ]
+  },
+  "biscuitsAndGravy": {
+    "Display Name": "Biscuits and Gravy",
+    "Search Terms": [
+      "biscuits",
+      "gravy"
+    ],
+    "Breakfast": 1,
+    "Lunch": 0,
+    "Dinner": 0,
+    "Dessert": 0,
+    "Ingredients": [
+      "biscuits",
+      "sausage",
+      "flour",
+      "milk",
+      "salt",
+      "blackPepper"
+    ]
+  },
+  "belgianWaffles": {
+    "Display Name": "Belgian Waffles",
+    "Search Terms": [
+      "belgian",
+      "waffles"
+    ],
+    "Breakfast": 1,
+    "Lunch": 0,
+    "Dinner": 0,
+    "Dessert": 0,
+    "Ingredients": [
+      "flour",
+      "sugar",
+      "bakingPowder",
+      "eggs",
+      "milk",
+      "butter",
+      "vanilla",
+      "mapleSyrup",
+      "strawberries"
+    ]
+  },
+  "breakfastBurrito": {
+    "Display Name": "Breakfast Burrito",
+    "Search Terms": [
+      "burrito"
+    ],
+    "Breakfast": 1,
+    "Lunch": 0,
+    "Dinner": 0,
+    "Dessert": 0,
+    "Ingredients": [
+      "canolaOil",
+      "redOnion",
+      "redBellPepper",
+      "blackBeans",
+      "chiliFlakes",
+      "blackPepper",
+      "eggs",
+      "pepperJackCheese",
+      "wholeWheatTortillas",
+      "greekYogurt",
+      "salsa",
+      "tomato",
+      "avocado"
+    ]
+  },
+  "frenchToast": {
+    "Display Name": "French Toast",
+    "Search Terms": [
+      "french",
+      "toast"
+    ],
+    "Breakfast": 1,
+    "Lunch": 0,
+    "Dinner": 0,
+    "Dessert": 0,
+    "Ingredients": [
+      "cinnamon",
+      "nutmeg",
+      "sugar",
+      "eggs",
+      "milk",
+      "vanilla",
+      "whiteBread",
+      "mapleSyrup"
+    ]
+  },
+  "baconAndEggs": {
+    "Display Name": "Bacon and Cheesy Eggs",
+    "Search Terms": [
+      "bacon",
+      "eggs"
+    ],
+    "Breakfast": 1,
+    "Lunch": 0,
+    "Dinner": 0,
+    "Dessert": 0,
+    "Ingredients": [
+      "bacon",
+      "eggs",
+      "milk",
+      "cheese",
+      "salt",
+      "blackPepper"
+    ]
+  },
+  "hashBrowns": {
+    "Display Name": "Hash Browns",
+    "Search Terms": [
+      "hash",
+      "browns"
+    ],
+    "Breakfast": 1,
+    "Lunch": 0,
+    "Dinner": 0,
+    "Dessert": 0,
+    "Ingredients": [
+      "potatoes",
+      "butter",
+      "salt",
+      "blackPepper",
+      "cayennePepper",
+      "paprika"
+    ]
+  },
+  "sweetCrepes": {
+    "Display Name": "Sweet Crepes",
+    "Search Terms": [
+      "sweet",
+      "crepes"
+    ],
+    "Breakfast": 1,
+    "Lunch": 0,
+    "Dinner": 0,
+    "Dessert": 1,
+    "Ingredients": [
+      "eggs",
+      "milk",
+      "butter",
+      "flour",
+      "sugar",
+      "salt",
+      "blueberries",
+      "strawberries"
+    ]
+  },
+  "breakfastParfait": {
+    "Display Name": "Breakfast Parfait",
+    "Search Terms": [
+      "parfait"
+    ],
+    "Breakfast": 1,
+    "Lunch": 0,
+    "Dinner": 0,
+    "Dessert": 0,
+    "Ingredients": [
+      "blackberries",
+      "bananas",
+      "granola",
+      "yogurt",
+      "almonds",
+      "honey",
+      "cinnamon"
+    ]
+  },
+  "griddlecakes": {
+    "Display Name": "Griddlecakes",
+    "Search Terms": [
+      "griddlecakes"
+    ],
+    "Breakfast": 1,
+    "Lunch": 0,
+    "Dinner": 0,
+    "Dessert": 0,
+    "Ingredients": [
+      "flour",
+      "bakingPowder",
+      "sugar",
+      "salt",
+      "eggs",
+      "milk",
+      "butter",
+      "mapleSyrup"
+    ]
+  },
+  "sausageAndEggSandwich": {
+    "Display Name": "Sausage and Egg Sandwich",
+    "Search Terms": [
+      "sausage",
+      "eggs",
+      "sandwich"
+    ],
+    "Breakfast": 1,
+    "Lunch": 0,
+    "Dinner": 0,
+    "Dessert": 0,
+    "Ingredients": [
+      "butter",
+      "whiteBread",
+      "vegetableOil",
+      "sausagePatties",
+      "cheese",
+      "eggs"
+    ]
+  },
+  "veggieOmelet": {
+    "Display Name": "Veggie Omelet",
+    "Search Terms": [
+      "veggie",
+      "eggs",
+      "omelet"
+    ],
+    "Breakfast": 1,
+    "Lunch": 0,
+    "Dinner": 0,
+    "Dessert": 0,
+    "Ingredients": [
+      "butter",
+      "onion",
+      "mushrooms",
+      "spinach",
+      "tomatoes",
+      "cheese",
+      "eggs",
+      "canolaOil",
+      "milk",
+      "salt",
+      "blackPepper",
+      "avocado"
+    ]
+  },
+  "baconAndCheeseOmelet": {
+    "Display Name": "Bacon and Cheese Omelet",
+    "Search Terms": [
+      "bacon",
+      "cheese",
+      "eggs",
+      "omelet"
+    ],
+    "Breakfast": 1,
+    "Lunch": 0,
+    "Dinner": 0,
+    "Dessert": 0,
+    "Ingredients": [
+      "eggs",
+      "salt",
+      "blackPepper",
+      "butter",
+      "bacon",
+      "cheese"
+    ]
+  },
+  "cheeseOmelet": {
+    "Display Name": "Cheese Omelet",
+    "Search Terms": [
+      "cheese",
+      "eggs",
+      "omelet"
+    ],
+    "Breakfast": 1,
+    "Lunch": 0,
+    "Dinner": 0,
+    "Dessert": 0,
+    "Ingredients": [
+      "eggs",
+      "salt",
+      "blackPepper",
+      "butter",
+      "cheese"
+    ]
+  },
+  "blueberryMuffins": {
+    "Display Name": "Blueberry Muffins",
+    "Search Terms": [
+      "blueberry",
+      "muffins"
+    ],
+    "Breakfast": 1,
+    "Lunch": 0,
+    "Dinner": 0,
+    "Dessert": 0,
+    "Ingredients": [
+      "flour",
+      "sugar",
+      "salt",
+      "bakingPowder",
+      "vegetableOil",
+      "eggs",
+      "milk",
+      "blueberries",
+      "butter",
+      "cinnamon"
+    ]
+  },
+  "chocolateChipMuffins": {
+    "Display Name": "Chocolate Chip Muffins",
+    "Search Terms": [
+      "chocolate",
+      "chip",
+      "muffins"
+    ],
+    "Breakfast": 1,
+    "Lunch": 0,
+    "Dinner": 0,
+    "Dessert": 0,
+    "Ingredients": [
+      "flour",
+      "sugar",
+      "salt",
+      "bakingPowder",
+      "vegetableOil",
+      "eggs",
+      "milk",
+      "chocolateChips",
+      "brownSugar",
+      "butter"
+    ]
+  },
+  "huevoRancheros": {
+    "Display Name": "Huevos Rancheros",
+    "Search Terms": [
+      "huevos",
+      "rancheros",
+      "eggs"
+    ],
+    "Breakfast": 1,
+    "Lunch": 0,
+    "Dinner": 0,
+    "Dessert": 0,
+    "Ingredients": [
+      "vegetableOil",
+      "cornTortillas",
+      "refriedBeans",
+      "butter",
+      "eggs",
+      "cheese",
+      "bacon",
+      "salsa"
+    ]
+  },
+  "oatmeal": {
+    "Display Name": "Oatmeal",
+    "Search Terms": [
+      "oatmeal"
+    ],
+    "Breakfast": 1,
+    "Lunch": 0,
+    "Dinner": 0,
+    "Dessert": 0,
+    "Ingredients": [
+      "oats",
+      "water",
+      "salt",
+      "cinnamon",
+      "honey"
+    ]
+  },
+  "scrambledEggs": {
+    "Display Name": "Scrambled Eggs",
+    "Search Terms": [
+      "scrambled",
+      "eggs"
+    ],
+    "Breakfast": 1,
+    "Lunch": 0,
+    "Dinner": 0,
+    "Dessert": 0,
+    "Ingredients": [
+      "eggs",
+      "milk",
+      "salt",
+      "blackPepper",
+      "butter"
+    ]
+  },
+  "quiche": {
+    "Display Name": "Quiche",
+    "Search Terms": [
+      "quiche",
+      "eggs"
+    ],
+    "Breakfast": 1,
+    "Lunch": 0,
+    "Dinner": 0,
+    "Dessert": 0,
+    "Ingredients": [
+      "pieCrust",
+      "eggs",
+      "milk",
+      "salt",
+      "blackPepper",
+      "ham",
+      "cheese",
+      "greenOnions"
+    ]
+  }
+}
