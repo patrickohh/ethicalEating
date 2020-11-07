@@ -1,0 +1,442 @@
+{
+  "almonds": {
+    "Display Name": "Almonds",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "avocado": {
+    "Display Name": "Avocado",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "bacon": {
+    "Display Name": "Bacon",
+    "Water Issue": 1,
+    "CO2 Issue": 1,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "bakingPowder": {
+    "Display Name": "Baking Powder",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "bananas": {
+    "Display Name": "Bananas",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "biscuits": {
+    "Display Name": "Biscuits",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "blackBeans": {
+    "Display Name": "Black Beans",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "blackPepper": {
+    "Display Name": "Black Pepper",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "blackberries": {
+    "Display Name": "Blackberries",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "blueberries": {
+    "Display Name": "Blueberries",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "brownSugar": {
+    "Display Name": "Brown Sugar",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "butter": {
+    "Display Name": "Butter",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "canolaOil": {
+    "Display Name": "Canola Oil",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "cayennePepper": {
+    "Display Name": "Cayenne Pepper",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "cheese": {
+    "Display Name": "Cheese",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "chiliFlakes": {
+    "Display Name": "Chili Flakes",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "chocolateChips": {
+    "Display Name": "Chocolate Chips",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "cinnamon": {
+    "Display Name": "Cinnamon",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "cornTortillas": {
+    "Display Name": "Corn Tortillas",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "eggs": {
+    "Display Name": "Eggs",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "englishMuffin": {
+    "Display Name": "English Muffin",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "flour": {
+    "Display Name": "Flour",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "granola": {
+    "Display Name": "Granola",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "greekYogurt": {
+    "Display Name": "Greek Yogurt",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "greenOnions": {
+    "Display Name": "Green Onions",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "ham": {
+    "Display Name": "Ham",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "honey": {
+    "Display Name": "Honey",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "mapleSyrup": {
+    "Display Name": "Maple Syrup",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "milk": {
+    "Display Name": "Milk",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "mushrooms": {
+    "Display Name": "Mushrooms",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "nutmeg": {
+    "Display Name": "Nutmeg",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "oats": {
+    "Display Name": "Oats",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "onion": {
+    "Display Name": "Onions",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "paprika": {
+    "Display Name": "Paprika",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "parsley": {
+    "Display Name": "Parsley",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "pepperJackCheese": {
+    "Display Name": "Pepper Jack Cheese",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "pieCrust": {
+    "Display Name": "Pie Crust",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "potatoes": {
+    "Display Name": "Potatoes",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "redBellPepper": {
+    "Display Name": "Red Bell Peppers",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "redOnion": {
+    "Display Name": "Red Onions",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "refriedBeans": {
+    "Display Name": "Refried Beans",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "salsa": {
+    "Display Name": "Salsa",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "salt": {
+    "Display Name": "Salt",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "sausage": {
+    "Display Name": "Sausage",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "sausagePatties": {
+    "Display Name": "Sausage Patties",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "spinach": {
+    "Display Name": "Spinach",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "strawberries": {
+    "Display Name": "Strawberries",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "sugar": {
+    "Display Name": "White Sugar",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "tomatoes": {
+    "Display Name": "Tomatoes",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "vanilla": {
+    "Display Name": "Vanilla",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "vegetableOil": {
+    "Display Name": "Vegetable Oil",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "water": {
+    "Display Name": "Water",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "whiteBread": {
+    "Display Name": "White Bread",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "wholeWheatTortillas": {
+    "Display Name": "Whole Wheat Tortillas",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  },
+  "yogurt": {
+    "Display Name": "Yogurt",
+    "Water Issue": 1,
+    "CO2 Issue": 0,
+    "Ethical Alternatives": [
+      ""
+    ]
+  }
+}
